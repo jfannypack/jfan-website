@@ -8,7 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/my-website",
+  pathPrefix: "/jfan-website",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
